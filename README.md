@@ -1,1 +1,1 @@
-# Ghost-runner
+# ghostClimberTemplate
